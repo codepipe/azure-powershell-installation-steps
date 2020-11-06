@@ -1,0 +1,53 @@
+Everthing will run in 
+
+"az" command
+
+
+
+** 
+Pre-requisites:
+Recommended powershell 5.1 version should be availiable 
+for more details follow the link:
+https://docs.microsoft.com/en-us/powershell/scripting/gallery/installing-psget?view=powershell-7
+--------
+Older Version of Azure RM powershell modules to new version az powershell modules migration links
+https://docs.microsoft.com/en-gb/powershell/azure/migrate-from-azurerm-to-az?view=azps-5.0.0
+***
+
+##
+powershell documentation and version list links
+https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/get-help?view=powershell-7
+##
+
+Step1:
+**
+1. Azure Modules installation in powershell 
+
+link: https://docs.microsoft.com/en-us/powershell/azure/install-az-ps?view=azps-5.0.0
+command: 
+for installation.  ----> Install-Module -Name Az
+for validatioin -----> get-InstalledModule -Name Az
+
+azure powersehll version lisr or release notes:
+
+https://docs.microsoft.com/en-us/powershell/azure/release-notes-azureps?view=azps-5.0.0
+**
+
+Step2:
+after installation connect to azure portal or azure cloud
+**
+command:
+Connect-AzAccount
+for more details follow the link:
+https://docs.microsoft.com/en-us/powershell/azure/authenticate-azureps?view=azps-5.0.0
+**
+-------------------------------
+Follow the link command-lets  for azure az power modules
+https://docs.microsoft.com/en-us/powershell/module/az.accounts/connect-azaccount?view=azps-5.0.0
+-------------------------------
+
+**
+step3:
+Disconnect-AzAccount
+**
+
