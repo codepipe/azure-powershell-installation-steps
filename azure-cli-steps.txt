@@ -1,0 +1,13 @@
+installation of azure cli:
+
+https://docs.microsoft.com/en-us/cli/azure/
+
+Release version:
+https://docs.microsoft.com/en-us/cli/azure/release-notes-azure-cli?tabs=azure-cli-beta
+current version:
+2.14.1
+
+azure cli command list:
+
+https://docs.microsoft.com/en-us/cli/azure/account?view=azure-cli-latest
+
