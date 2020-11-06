@@ -1,6 +1,29 @@
+current version is :5.0.0
+previous version are: 
+4.8
+3.8
+2.8
+1.8
+0.10
+
+
 Everthing will run in 
 
-"az" command
+"az is the module for azure " command and powersehll commands
+
+how to list the command list
+--
+Get-Command -ListImported
+
+how to list the modules 
+----
+get-modules 
+
+ex:1
+get-command -module Az.compute
+
+ex:2
+get-help azvm
 
 
 
